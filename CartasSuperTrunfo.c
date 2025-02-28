@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // cartas super trunfo
 
 int main() {
     char estado1[3], estado2[3];  // Para sigla do estado (ex: "A", "B")
